@@ -1,6 +1,6 @@
-client.login(process.env.BOT_TOKEN);
+token= NTQwMjc4Mzc2NDQ3ODY5MTIz.DzOpqg.z33ta6CvhdSKnDD4j3EvQMPu9M4
 owner= 405415542221176832
 prefix= -
-game= -
+streaming= -
 stayinchannel=true
 songinstatus=true 
