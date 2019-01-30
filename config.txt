@@ -1,4 +1,4 @@
-token= NTQwMjc4Mzc2NDQ3ODY5MTIz.DzOpqg.z33ta6CvhdSKnDD4j3EvQMPu9M4
+token= NTM5NDg1Nzg3NDgyMjI2Njg5.DzDc1w.lCn1sykOhXJFy1JicJ-0sq3xwjk
 owner= 405415542221176832
 prefix= -
 streaming= -
